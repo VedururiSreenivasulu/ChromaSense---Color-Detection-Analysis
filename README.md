@@ -33,18 +33,26 @@ This project analyzes an uploaded image and extracts its **top dominant colors**
 
 **Pie Chart of Color Proportions**
 
-![Pie Chart](<img width="471" height="427" alt="image" src="https://github.com/user-attachments/assets/42649ccb-19b3-4fbc-8c5c-be177fe6ff9c" />
+![Pie Chart]
+
+(<img width="471" height="427" alt="image" src="https://github.com/user-attachments/assets/42649ccb-19b3-4fbc-8c5c-be177fe6ff9c" />
 
 )
 
 **3D Scatter Plot of RGB Pixel Colors**
 
-![3D RGB Plot](<img width="646" height="658" alt="image" src="https://github.com/user-attachments/assets/b191c23b-cedb-4501-b7a5-8858c30605d5" />
+![3D RGB Plot]
+
+(<img width="646" height="658" alt="image" src="https://github.com/user-attachments/assets/81f666d5-eda3-4421-80f0-dedcb17c8288" />
+
 )
 
 **3D Cluster Centers (Dominant Colors)**
 
-![3D Clusters](<img width="647" height="658" alt="image" src="https://github.com/user-attachments/assets/d2a3a833-8897-4d15-b92a-4686d8452b83" />
+![3D Clusters]
+
+(<img width="647" height="658" alt="image" src="https://github.com/user-attachments/assets/abaf6891-dc80-4f2c-b8bf-99ccffee3924" />
+
 )
 
 ---
