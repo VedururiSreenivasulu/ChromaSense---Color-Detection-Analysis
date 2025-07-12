@@ -1,0 +1,13 @@
+color_data = pd.DataFrame({
+    'Hex Code': hex_colors,
+    'Red': colors[:, 0],
+    'Green': colors[:, 1],
+    'Blue': colors[:, 2],
+    'Count': counts
+})
+csv_path = "dominant_colors.csv"
+color_data.to_csv(csv_path, index=False)
+files.download(csv_path)
+# Print color details
+print("\n🎨 Dominant Colors:")
+print(color_data)
