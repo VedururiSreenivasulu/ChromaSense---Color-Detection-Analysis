@@ -60,14 +60,14 @@ This project analyzes an uploaded image and extracts its **top dominant colors**
 (<img width="646" height="658" alt="image" src="https://github.com/user-attachments/assets/d39b8c47-96de-48bc-9647-66a56b136a88" />
 
 )
+
+## 📦 Install Dependencies
+
+pip install opencv-python-headless matplotlib scikit-learn pillow pandas
+
 🧑‍💻 Author
 
 Sreenivasulu Vedururi
 
 📧 Feel free to connect via GitHub or LinkedIn.
 ---
-
-## 📦 Install Dependencies
-
-```bash
-pip install opencv-python-headless matplotlib scikit-learn pillow pandas
