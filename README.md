@@ -26,22 +26,20 @@ This project analyzes an uploaded image and extracts its **top dominant colors**
 
 **Original Image + Color Bar**
 
-![Uploaded Image](
+![Uploaded Image]   and   ![Color Bar](
 
 <img width="919" height="390" alt="image" src="https://github.com/user-attachments/assets/e2bc1fb8-ce22-434f-9ee6-fea0ebf955c3" />
 
 )  
-![Color Bar]
 
-(<img width="919" height="390" alt="image" src="https://github.com/user-attachments/assets/b65541d0-9146-41a7-ad31-8285b1d2ae2c" />
 
-)
+
 
 **Pie Chart of Color Proportions**
 
 ![Pie Chart]
 
-(<img width="471" height="427" alt="image" src="https://github.com/user-attachments/assets/42649ccb-19b3-4fbc-8c5c-be177fe6ff9c" />
+(<img width="486" height="427" alt="image" src="https://github.com/user-attachments/assets/bd2847b7-2091-4691-a509-cbaea8bef8ac" />
 
 )
 
