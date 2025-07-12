@@ -1,0 +1,5 @@
+# Pie chart for color proportions
+plt.figure(figsize=(5, 5))
+plt.pie(counts, labels=hex_colors, colors=[np.array(c)/255 for c in colors], startangle=140, autopct='%1.1f%%')
+plt.title("Color Distribution")
+plt.show()
