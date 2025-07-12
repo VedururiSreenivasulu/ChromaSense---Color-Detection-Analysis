@@ -26,9 +26,15 @@ This project analyzes an uploaded image and extracts its **top dominant colors**
 
 **Original Image + Color Bar**
 
-![Uploaded Image]([<img width="919" height="390" alt="image" src="https://github.com/user-attachments/assets/0cef4890-da7d-4067-be6c-66a02af2f3ed" />
+![Uploaded Image](
+
+<img width="919" height="390" alt="image" src="https://github.com/user-attachments/assets/e2bc1fb8-ce22-434f-9ee6-fea0ebf955c3" />
+
 )  
-![Color Bar](<img width="919" height="390" alt="image" src="https://github.com/user-attachments/assets/22324e90-9f49-4971-9883-562c8096b353" />
+![Color Bar]
+
+(<img width="919" height="390" alt="image" src="https://github.com/user-attachments/assets/b65541d0-9146-41a7-ad31-8285b1d2ae2c" />
+
 )
 
 **Pie Chart of Color Proportions**
@@ -43,7 +49,9 @@ This project analyzes an uploaded image and extracts its **top dominant colors**
 
 ![3D RGB Plot]
 
-(<img width="646" height="658" alt="image" src="https://github.com/user-attachments/assets/81f666d5-eda3-4421-80f0-dedcb17c8288" />
+(<img width="646" height="658" alt="image" src="https://github.com/user-attachments/assets/1353a421-e721-49ae-b8f9-1775f9766d1d" />
+
+
 
 )
 
@@ -51,7 +59,9 @@ This project analyzes an uploaded image and extracts its **top dominant colors**
 
 ![3D Clusters]
 
-(<img width="647" height="658" alt="image" src="https://github.com/user-attachments/assets/abaf6891-dc80-4f2c-b8bf-99ccffee3924" />
+(<img width="646" height="658" alt="image" src="https://github.com/user-attachments/assets/d39b8c47-96de-48bc-9647-66a56b136a88" />
+
+
 
 )
 
