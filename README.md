@@ -33,7 +33,8 @@ This project analyzes an uploaded image and extracts its **top dominant colors**
 
 **Pie Chart of Color Proportions**
 
-![Pie Chart](<img width="471" height="427" alt="image" src="https://github.com/user-attachments/assets/a3a39c5f-6200-49af-84e9-6f34e9006441" />
+![Pie Chart](<img width="471" height="427" alt="image" src="https://github.com/user-attachments/assets/42649ccb-19b3-4fbc-8c5c-be177fe6ff9c" />
+
 )
 
 **3D Scatter Plot of RGB Pixel Colors**
